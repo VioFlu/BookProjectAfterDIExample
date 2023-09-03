@@ -1,0 +1,12 @@
+C:\Content\Presentation\BookProjectPart1\BookProject\BookProject\bin\Debug\net7.0\BookProject.deps.json
+C:\Content\Presentation\BookProjectPart1\BookProject\BookProject\bin\Debug\net7.0\BookProject.dll
+C:\Content\Presentation\BookProjectPart1\BookProject\BookProject\bin\Debug\net7.0\BookProject.pdb
+C:\Content\Presentation\BookProjectPart1\BookProject\BookProject\obj\Debug\net7.0\BookProject.csproj.AssemblyReference.cache
+C:\Content\Presentation\BookProjectPart1\BookProject\BookProject\obj\Debug\net7.0\BookProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Content\Presentation\BookProjectPart1\BookProject\BookProject\obj\Debug\net7.0\BookProject.AssemblyInfoInputs.cache
+C:\Content\Presentation\BookProjectPart1\BookProject\BookProject\obj\Debug\net7.0\BookProject.AssemblyInfo.cs
+C:\Content\Presentation\BookProjectPart1\BookProject\BookProject\obj\Debug\net7.0\BookProject.csproj.CoreCompileInputs.cache
+C:\Content\Presentation\BookProjectPart1\BookProject\BookProject\obj\Debug\net7.0\BookProject.dll
+C:\Content\Presentation\BookProjectPart1\BookProject\BookProject\obj\Debug\net7.0\refint\BookProject.dll
+C:\Content\Presentation\BookProjectPart1\BookProject\BookProject\obj\Debug\net7.0\BookProject.pdb
+C:\Content\Presentation\BookProjectPart1\BookProject\BookProject\obj\Debug\net7.0\ref\BookProject.dll
